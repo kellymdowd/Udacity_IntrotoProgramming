@@ -1,1 +1,1 @@
-# Udacity_IntrotoProgramming
+# UdacityIntrotoProgramming
